@@ -1,0 +1,9 @@
+*.pyc
+*.log
+*.orig
+*.swp
+*.patch
+.~lock*
+*.diff
+log/
+**/env/
